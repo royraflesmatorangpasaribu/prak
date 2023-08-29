@@ -220,7 +220,7 @@
 
     <div class="heroe">
 
-        <h1>Roy Rafles <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+        <h1>Roy Rafles M P <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
         <h2>2117051058</h2>
 
